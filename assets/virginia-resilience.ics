@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GMU//Virginia Resilience Workshop//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:virginia-resilience-20270416@gmu.edu
+DTSTAMP:20261014T160000Z
+DTSTART:20270416T140000Z
+DTEND:20270416T180000Z
+SUMMARY:Virginia Multi-Hazard Workshop
+LOCATION:Robins Room\, Lewis Ginter Botanical Garden\, Richmond\, Virginia
+DESCRIPTION:RR - GMU Multi-Hazard Community Workshop. Convened by George Mason University. Contacts: Ed Oughton (eoughton@gmu.edu) and Alice Fox (afox30@gmu.edu). Registration and agenda details to follow.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
