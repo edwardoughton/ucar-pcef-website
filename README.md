@@ -18,7 +18,7 @@ Deploy `index.html`, `styles.css`, `workshop.js`, and `assets/` to any static ho
 - Agenda, outputs, and registration are described as planned or forthcoming. No funding award, confirmed speaker list, or completed analytics is implied.
 - Public contact addresses come from `data/Application form.pdf`.
 - The landscape is an original decorative SVG, not a hazard map or modeled result.
-- Typography uses Google Fonts, with local system fallbacks if unavailable.
+- Typography uses Georgia headings and Verdana body text from local system fonts, with no external font requests.
 
 Edit `index.html` for content, `styles.css` for design, and `assets/virginia-resilience.ics` if event details change. The participation form prepares a local email draft to Alice Fox; it does not submit or store participant data on a server.
 
